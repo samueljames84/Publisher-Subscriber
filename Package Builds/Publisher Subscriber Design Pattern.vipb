@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-16 20:46:44" Modified_Date="2025-02-14 10:19:40" Creator="Administrator" Comments="" ID="8adc9d05b4bc6bea4090c37af1d18464">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-16 20:46:44" Modified_Date="2025-04-23 17:54:34" Creator="Administrator" Comments="" ID="e6f0022830f97fe48495ec0e9b394efe">
   <Library_General_Settings>
     <Package_File_Name>Sam_lib_Publisher_Subscriber_Design_Pattern</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\_Publisher Subscriber</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -368,7 +368,7 @@
         <Path>..\_Publisher Subscriber\unnamed</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA8BACFD72F44C53A74C2B0F32F94C4F</GUID>
+      <GUID>59D7D06DA70142FABF1ACE2D20646DBC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -487,7 +487,7 @@
         <Path>..\_Publisher Subscriber\Advanced\publish on demand.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D8C96C4441F84F6767A2535F1C2FD4A</GUID>
+      <GUID>EB470D962A0262622FD5173549BA8C60</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -564,7 +564,7 @@
         <Path>..\_Publisher Subscriber\Classes\get all children class data.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>741E942D774F4A412D73A186846AA98C</GUID>
+      <GUID>28C429B08F9D4631861A741C4787928B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -669,7 +669,7 @@
         <Path>..\_Publisher Subscriber\Store API\get variable data by name.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4436673D18B85B513088DD45AFEC4BCC</GUID>
+      <GUID>C0830A60D88DB8FE16361824BFD64C2E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -732,7 +732,7 @@
         <Path>..\_Publisher Subscriber\Templates\Producer Consumer Template.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7574E4ED3BB9212BA1A53968BD72A89C</GUID>
+      <GUID>A6D1984D8B16779D381DEA9810859702</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -781,7 +781,7 @@
         <Path>..\_Publisher Subscriber\Common API\send event info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3CD9139EED1709CCCEF76288F5190C52</GUID>
+      <GUID>0CD6BA2C3C18EE0BEF30A6A83E5511EF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
