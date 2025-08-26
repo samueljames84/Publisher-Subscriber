@@ -39,13 +39,11 @@
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="class dvr type.ctl" Type="VI" URL="../Controls/class dvr type.ctl"/>
 		<Item Name="data cluster.ctl" Type="VI" URL="../Controls/data cluster.ctl"/>
 		<Item Name="error info.ctl" Type="VI" URL="../Controls/error info.ctl"/>
 		<Item Name="event info.ctl" Type="VI" URL="../Controls/event info.ctl"/>
 		<Item Name="node dvr data.ctl" Type="VI" URL="../Controls/node dvr data.ctl"/>
 		<Item Name="node refnum.ctl" Type="VI" URL="../Controls/node refnum.ctl"/>
-		<Item Name="subscription bank ref.ctl" Type="VI" URL="../Controls/subscription bank ref.ctl"/>
 	</Item>
 	<Item Name="Store API" Type="Folder">
 		<Item Name="get variable data by name.vim" Type="VI" URL="../Store API/get variable data by name.vim"/>
