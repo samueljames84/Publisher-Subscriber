@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-16 20:46:44" Modified_Date="2025-08-26 12:29:26" Creator="Administrator" Comments="" ID="eeea426c09cbfd74ecbecc23fd340fcd">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-16 20:46:44" Modified_Date="2026-02-17 14:10:52" Creator="Administrator" Comments="" ID="9657ed5e5adc988dc5967f2eb79c01e0">
   <Library_General_Settings>
     <Package_File_Name>Sam_lib_Publisher_Subscriber_Design_Pattern</Package_File_Name>
-    <Library_Version>1.2.0.2</Library_Version>
+    <Library_Version>1.3.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\_Publisher Subscriber</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,10 @@
       <Copyright/>
       <Packager>Samuel James</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Remove by variable name required terminal to optional
+Close the event refum in state machine
+Add Flush data api
+Added control to set the buffer size when creating node</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -368,7 +371,7 @@
         <Path>..\_Publisher Subscriber\unnamed</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F1B88F7279F27DE8993EB942A35EB59</GUID>
+      <GUID>872D200D9487BD9B34BE18E222B1E40C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -487,7 +490,21 @@
         <Path>..\_Publisher Subscriber\Advanced\publish on demand.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>137808DFEE2608BD78EC283CA6C7767E</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>flush.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\_Publisher Subscriber\Advanced\flush.vi</Path>
+        <VI_Title>Flush</VI_Title>
+      </Items_Data>
+      <GUID>0926CF04CD216FD5AD74A76B8DBF3922</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -564,7 +581,7 @@
         <Path>..\_Publisher Subscriber\Classes\get all children class data.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7965F3992D4371357F4698521EE53092</GUID>
+      <GUID>57796415F79C65CC3FB3A16BBD3673F6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -669,7 +686,7 @@
         <Path>..\_Publisher Subscriber\Store API\get variable data by name.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>46657FE1F8D876EA209EC714285784DB</GUID>
+      <GUID>CA73E0718B2879693F6E5F26097C04A2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -732,7 +749,7 @@
         <Path>..\_Publisher Subscriber\Templates\Producer Consumer Template.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>417904E9E21E5BD1A55B1648FB0CA7C8</GUID>
+      <GUID>5D890851F36DC130F1CF114950CFA430</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -781,7 +798,7 @@
         <Path>..\_Publisher Subscriber\Common API\send event info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C2A6E5210940A88AFC36F6246057B10</GUID>
+      <GUID>993AD11C66F102B57BFC2889B52BE59F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
